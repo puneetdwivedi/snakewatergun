@@ -21,10 +21,10 @@ def result(computer_choice,user_choice):
     else:
         winner=-1
     return winner
-# Game variable
+# Game variable fhgdfgjffdhdfdhg
 game_input=['s','w','g']
 # Game loop
-print("WELCOME TO THE SNAKE WATER GUN GAME  ---- Created by Puneet Dwivedi\n")
+print("WELCOME TO THhk WATER GUN GAME  ---- Created by Puneet Dwivedi\n")
 game=input("To start game press any button")
 while game != 'exit':
     total_turn=10
